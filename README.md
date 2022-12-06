@@ -1,2 +1,12 @@
-# Conversor_de_Numeros_romanos
- 
+
+## Tecnologias utilizadas durante o curso
+* Javascript
+
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
+
+## Link De Visualizacao
+
+[Conversor]()
+
